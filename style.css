@@ -196,9 +196,3 @@
         gap: 16px;
     }
 }
-@supports (-webkit-overflow-scrolling: touch) {
-    .contact__text {
-        color: #ffffff;
-        text-decoration: none;
-    }
-}
